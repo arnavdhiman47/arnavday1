@@ -1,0 +1,197 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.card-1 {
+    background-color: rgb(19 193 30 / 59%);
+    width: 400px;
+    margin: 50px auto ;
+    padding: 120px 50px;
+    border-radius: 12px;
+}
+
+.card-1 h1 {
+    font-size: 41px;
+}
+
+.card-1 p {
+    font-size: 14px;
+    margin: 20px 0;
+    font-weight: 630;
+}
+
+.card-1 .btn-1 {
+    margin-top: 7px;
+    color: black;
+    background-color: aliceblue;
+    border-radius: 50px;
+    border: none;
+    font-size: 1rem;
+    padding: 10px 20px;
+    font-weight: bold;
+}
+
+/* Card 2 css  */
+
+.card-2 {
+    width: 480px;
+    border: 1.5px solid lightgray;
+    margin: 150px auto ;
+    border-radius: 10px;
+}
+
+.card-2 div {
+    box-sizing: border-box;
+    padding: 25px  30px ;
+}
+
+.card-2 .d1 {
+    border-bottom: 1.5px solid lightgrey;
+}
+
+.card-2 .d1 h1 {
+    font-size: 2rem;
+    font-weight: 450;
+    margin: 5px 0;
+}
+
+.card-2 .d1 p {
+    font-weight: 450;
+    font-size: 18px;
+}
+
+.card-2 .d1 .img {
+    width: 25%;
+    margin: 30px 20px;
+    padding: 0px 17px;
+    border-radius: 50%;
+}
+
+
+.card-2 .d2 .link {
+    text-decoration: none;
+    color: #175ed1d4;
+}
+
+/* Card 3 Css */
+
+.card-3 {
+    width: 330px ;
+    border:1.5px solid lightgray;
+    border-radius: 10px ;
+    margin: 150px auto ;
+    /* padding: 50px ; */
+}
+.card-3 .img img {
+    width: 100%;
+    border-top-left-radius: 10px ;
+    border-top-right-radius: 10px ;
+}
+
+.card-3 .text{
+    padding: 20px ;
+}
+
+.card-3 .text .first{
+    font-size: 12px ;
+    font-weight: 400;
+}
+.card-3 .text .first span{
+    font-size: 13px ;
+}
+
+.card-3 h4{
+    font-size: 18px ;
+    padding: 5px 0;
+    font-weight: 600;
+}
+
+.card-3 .text .second {
+    font-size: 15px ;
+}
+
+.card-3 .btn-3{
+    margin-top: 13px ;
+    padding: 7px 14px ;
+    color: #175ed1d4;
+    font-weight: 500;
+    font-size: 16px ;
+    background-color: white;
+    border: 1.5px solid lightgrey;
+    border-radius: 3px ;
+}
+
+/* Card 4 css */
+
+.card-4 {
+    width: 300px ;
+    /* border:1.5px solid lightgray; */
+    border-radius: 10px ;
+    margin: 150px auto ;
+    text-align: center;
+}
+
+.card-4 h1{
+    font-size: 45px ;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.card-4 h4{
+    font-size: 13px ;
+    margin:20px 0  ;
+}
+
+.card-4 .input{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px 15px  ;
+    border-radius: 10px ;
+    border: 1.5px solid lightgray;
+    margin: 5px 0 ;
+    font-size: 15px ;
+    outline: none;
+}
+.card-4 .input .newInput{
+    border: none;
+    margin: 0;
+    padding: 0;
+    width: 77%;
+    line-height: normal;
+}
+
+.card-4 .input span{
+    width: 20%;
+    font-weight: 200;
+    padding-left: 22px ;
+    font-size: 12px ;
+}
+
+.card-4 .btn-4{
+    border: none;
+    border-radius: 25px ;
+    color: white;
+    background-color: black ;
+    font-size: 15px;
+    padding: 10px 25px ;
+    margin: 13px 0 ;
+}
+
+.card-4 .sign-up{
+    font-size: 10px ;
+    margin-top: 20px ;
+}
+.card-4  a{
+    color: black;   
+}
+
+.card-4 .forgot-pass{
+    font-size: 10px ;
+}
+
+
+.card-4 .foot{
+    font-size: 8px ;
+    padding: 15px   60px  ;
+}
